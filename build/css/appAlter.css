@@ -1,0 +1,66 @@
+:root{
+    --verde: #71B100;;
+}
+
+.darkmode table.propiedades{
+    color: white;
+}
+
+table.propiedades{
+    margin-top: 4rem;
+    width: 100%;
+    border-spacing: 0;
+    color: black;
+}
+
+table.propiedades thead{
+    background-color: var(--verde);
+}
+
+table.propiedades thead th{
+    color: white;
+    padding: 2rem;
+}
+
+table.propiedades img{
+    width: 10rem;
+}
+
+.boton-rojo {
+    background-color: rgb(223, 3, 3);
+    border: none;
+    color: #fff;
+    display: block;
+    font-weight: 700;
+    margin-top: 2.5rem;
+    padding: 1rem 2rem;
+    text-align: center;
+    text-decoration: none
+}
+
+.boton-rojo:hover {
+    background-color: #e60000;
+    cursor: pointer;
+    width: 100%;
+}
+
+.boton-verde-block {
+    background-color: #71b100;
+    border: none;
+    color: #fff;
+    display: block;
+    font-weight: 700;
+    margin-top: 2.5rem;
+    padding: 1rem 2rem;
+    text-align: center;
+    text-decoration: none
+}
+
+.boton-verde-block:hover {
+    background-color: #619800;
+    cursor: pointer
+}
+
+.w-100{
+    width: 100%;
+}

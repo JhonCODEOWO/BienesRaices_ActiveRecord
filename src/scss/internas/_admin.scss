@@ -1,0 +1,26 @@
+.alerta{
+    margin-top: 2rem;
+    padding: .5rem;
+    text-align: center;
+    color: $blanco;
+    font-weight: bold;
+    text-transform: uppercase;
+    &.error{
+        background-color: rgb(170, 7, 7);
+    }
+
+    &.exito{
+        background-color: greenyellow;
+    }
+}
+
+table.propiedades{
+    margin-top: 4rem;
+    width: 100%;
+    border-spacing: 0;
+    color: $black;
+}
+
+.img_small{
+    width: 30rem;
+}

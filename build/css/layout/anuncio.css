@@ -1,0 +1,2 @@
+@media (min-width:768px){.contenedor-anuncios{display:grid;gap:2rem;grid-template-columns:repeat(3,1fr)}}.anuncio{background-color:#e1e1e1;border:1px solid #c8c8c8}.anuncio .contenido-anuncio{padding:2rem}.anuncio h3,.anuncio p{margin:0}.anuncio .precio{color:green;font-size:2.4rem;font-weight:700}.iconos-caracteristicas{display:flex;list-style:none;padding:0}.iconos-caracteristicas li{display:flex;flex:1}.iconos-caracteristicas li img{flex:0 0 5rem;margin-right:1rem}.iconos-caracteristicas li p{font-weight:bolder}
+/*# sourceMappingURL=anuncio.css.map */
